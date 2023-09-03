@@ -10,7 +10,7 @@ An easy to use calculator in python using object oriented programming for learni
 <li>Multiplication</li>
 <li>Division</li>
 <li>Exponents</li>
-<li>Root</li>
+<li>Nth root</li>
 </ol>
 </ul>
 
@@ -24,7 +24,7 @@ An easy to use calculator in python using object oriented programming for learni
 # Setup
 Use the line of code below to download DigiCalc:
 
-```bash
+```
 $ git clone https://github.com/arnav-2022/DigiCalc-OOP-Python.git 
 ```
 Once DigiCalc has been installed, open the terminal and enter the following lines of code to run DigiCalc

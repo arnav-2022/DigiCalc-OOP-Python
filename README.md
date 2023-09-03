@@ -26,11 +26,13 @@ Use the line of code below to download DigiCalc:
 
 ```
 $ git clone https://github.com/arnav-2022/DigiCalc-OOP-Python.git 
+
 ```
 Once DigiCalc has been installed, open the terminal and enter the following lines of code to run DigiCalc
 
 ```
 $ cd DigiCalc-OOP-Python
 $ python DigiCalc.py
+
 ```
 
